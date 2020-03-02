@@ -1,0 +1,37 @@
+/*--------------------------------+
+|  filename: ./style.css          |
+|  PHOLDREP.GITHUB.IO STYLESHEET  |
+|  by Pedro Araujo [pholdrep]     |
++--------------------------------*/
+
+body {
+	font-family: monospace;
+	text-align: center;
+	background-color: #F0F0F0;
+}
+
+main {
+	margin: 4% auto 10px auto;
+	max-width: 250px;
+	background-color: white;
+	border: 1px solid #A3A3A3;
+	box-shadow: 0 0 10px #A3A3A3;
+	padding: 30px;
+}
+
+img {
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	pointer-events: none;
+}
+
+a {
+	color: #1F7EA1;
+}
+
+a:hover {
+	color: #791B1B;
+}
