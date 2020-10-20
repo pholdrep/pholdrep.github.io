@@ -1,9 +1,8 @@
 # pholdrep.github.io
 
-My github.io page.
+- My github.io page: [pholdrep.github.io](https://pholdrep.github.io/)
+- My homepage: [www.pedroaraujo.net](https://www.pedroaraujo.net/)
 
-- Main page: [www.pedroaraujo.net](https://www.pedroaraujo.net/)
-- Blog: [blog.pedroaraujo.net](https://blog.pedroaraujo.net/)
 
 ## Projects
 
